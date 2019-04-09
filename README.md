@@ -3,12 +3,14 @@ Mobile App with AngularJS_ionic
 
 # in 'xz_api' file 
 
-## open XAMPP: run Apache & MySQL
+- open XAMPP: run Apache & MySQL
 
-## import xz.sql into phpMyAdmin
+- import xz.sql into phpMyAdmin
 
-## Start the server: node app.js
-
+- Start the server: 
+```
+node app.js
+```
 
 #in 'myProject' file
 
