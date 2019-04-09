@@ -1,7 +1,9 @@
 # AngularJS_ionic
 Mobile App with AngularJS_ionic
+Mobile side purchase platform to complete the interaction functions between front-end and back-end.
+Can get user's name, password, products information from the database, and insert the data into the back-end database automatically when the web page completes Addto cart. In the back-end database can also directly change the purchase status, such as: deleting order, then the web pages automatically update this change.
 
-# in 'xz_api' file 
+# in 'xz_api' file (beck-end)
 
 - open XAMPP: run Apache & MySQL
 
@@ -12,7 +14,7 @@ Mobile App with AngularJS_ionic
 node app.js
 ```
 
-# in 'myProject' file
+# in 'myProject' file (front-end)
 
 ## Project setup
 ```
