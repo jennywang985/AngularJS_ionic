@@ -25,4 +25,4 @@ npm start
 ## Dev server running: 
 http://localhost:8100/ 
 
-![image](https://github.com/jennywang985/AngularJS_ionic/blob/master/Rec%200001.gif)
+
