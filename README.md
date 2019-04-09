@@ -12,7 +12,7 @@ Mobile App with AngularJS_ionic
 node app.js
 ```
 
-#in 'myProject' file
+# in 'myProject' file
 
 ## Project setup
 ```
@@ -22,5 +22,5 @@ npm install
 ```
 npm start
 ```
-## dev server running: 
+## Dev server running: 
 http://localhost:8100/ 
