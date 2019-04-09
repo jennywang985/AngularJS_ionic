@@ -22,13 +22,13 @@
   <!-- 表单 -->
   <ion-list>
     <ion-item>
-      <ion-input placeholder="用户名" [(ngModel)]="myName">
+      <ion-input placeholder="User Name" [(ngModel)]="myName">
       </ion-input>
     </ion-item>
     <ion-item>
       <ion-input type="password"
       [(ngModel)]="myPwd"
-       placeholder="密码"></ion-input>
+       placeholder="password"></ion-input>
     </ion-item>
   </ion-list>
 
@@ -37,12 +37,12 @@
     <ion-row>
       <ion-col style="text-align: left">
         <button ion-button color='dark' clear>
-          忘记密码
+          forget password
         </button>
       </ion-col>
       <ion-col style="text-align: right">
         <button ion-button color='dark' clear>
-          免费注册
+          register
         </button>
       </ion-col>
     </ion-row>
@@ -52,6 +52,6 @@
   <button 
   (click)="login()"
   ion-button color='danger' block round>
-    登录
+    Login
   </button>
 </ion-content>
